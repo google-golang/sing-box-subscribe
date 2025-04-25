@@ -11,3 +11,11 @@ venv/
 ENV/ 
 env.bak/ 
 venv.bak/ 
+
+# uv
+.python-version
+pyproject.toml
+uv.lock
+
+# output
+config.json
