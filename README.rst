@@ -13,7 +13,7 @@ sing-box-subscribe
 ::
 
     uv venv
-    uv pip install -r .\requirements.txt
+    uv sync
     uv run main.py
 
 
