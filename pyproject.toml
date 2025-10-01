@@ -1,0 +1,14 @@
+[project]
+name = "sing-box-subscribe"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "chardet>=5.2.0",
+    "paramiko>=4.0.0",
+    "pyyaml>=6.0.2",
+    "requests>=2.32.5",
+    "ruamel-yaml>=0.18.15",
+    "scp>=0.15.0",
+]
